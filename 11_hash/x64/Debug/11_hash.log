@@ -1,0 +1,4 @@
+﻿  11_hash.cpp
+  HashTable.cpp
+C:\Users\ilya\source\repos\11_hash\11_hash\HashTable.cpp(5,16): error C3861: GetPrime: идентификатор не найден
+  Создание кода...
